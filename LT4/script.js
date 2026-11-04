@@ -220,8 +220,6 @@ function validateForm() {
         "Welcome, " + name + "! Your " + plan + " membership starts on " + date +
         ". Total payable: " + total + " Taka.";
 
-
-
     document.getElementById("fullName").value = "";
     document.getElementById("age").value = "";
     document.getElementById("mobile").value = "";
